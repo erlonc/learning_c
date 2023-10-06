@@ -19,6 +19,10 @@ Repository with exercises I solved to learn the c language.
 ./bin/bermudas_geo < bermudas_geo.csv | ./bin/csv_to_json > bermudas_geo.json
 ```
 
+**categorize_custom**: program that uses keywords as search criteria and files to be used the command line
+```
+./bin/categorize_custom UFO aliens.csv Elvis elvises.csv the_rest.csv
+```
 **others**
 ```
 ./bin/file_name
