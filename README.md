@@ -23,6 +23,12 @@ Repository with exercises I solved to learn the c language.
 ```
 ./bin/categorize_custom UFO aliens.csv Elvis elvises.csv the_rest.csv
 ```
+
+**tour**: program that uses memory allocation to create a linked list
+```
+./bin/tour < trip1.txt
+```
+
 **others**
 ```
 ./bin/file_name
